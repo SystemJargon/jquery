@@ -4,3 +4,5 @@
 # JS files must always use LF for tools to work
 # JS files may have mjs or cjs extensions now as well
 *.js eol=lf
+/*.js linguist-language=javascript linguist-detectable
+/assets/*.js linguist-language=javascript linguist-detectable
